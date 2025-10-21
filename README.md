@@ -45,6 +45,8 @@ It is useful for:
 ## Run the script
   ./deploy.sh
 
+
+
 ## You’ll be asked to enter:
 | Prompt                      | Description              | Example                              |
 | --------------------------- | ------------------------ | ------------------------------------ |
